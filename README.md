@@ -1,4 +1,4 @@
-# Minigrep (Rust CLI)
+# Minigrep
 
 Command line tool to search for a string within a file - outputs line containing string
 
